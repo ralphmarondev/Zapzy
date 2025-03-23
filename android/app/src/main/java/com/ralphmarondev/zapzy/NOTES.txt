@@ -1,0 +1,8 @@
+[MainViewModel]
+    - we are using default id as 1, make it dynamic!
+
+[AppModule]
+    - make sure to change the `BASE_URL`, the ip address!
+
+[res/xml/network_security_config.xml]
+    - change the ip address there too!
